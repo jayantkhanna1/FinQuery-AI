@@ -57,7 +57,7 @@ pypdf
 
 1. Run the application:
 ```bash
-python main.py
+python app.py
 ```
 
 2. Open your web browser and navigate to the local URL provided by Gradio (typically `http://127.0.0.1:7860`).
